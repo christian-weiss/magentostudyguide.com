@@ -1,0 +1,5 @@
+#Ignore Jetbrains IntelliJ IDEA settings and module files
+.idea
+*.iml
+
+#add further ignore rules (e.g. for other IDE)
